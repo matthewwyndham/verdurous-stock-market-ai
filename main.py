@@ -1,5 +1,6 @@
 # Stock Market prediction with Machine Learning
 # Senior Project at BYU-I by Matt Wyndham
+# get your own API Key from Alpha Vantage: https://www.alphavantage.co/documentation/
 
 from myapikey import APIkey
 from alpha_vantage.timeseries import TimeSeries
