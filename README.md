@@ -13,3 +13,5 @@ An AI project in Python3 to predict the stock market
 - python3
 - jupyter notebook
 
+Scripts are located in the ".ideas" folder. This is an artifact of my IDE (PyCharm by JetBrains)
+https://www.jetbrains.com/help/pycharm/running-jupyter-notebook-cells.html
